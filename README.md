@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adam-vigo18
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently learning C++,Python and Mechatronics
 - 📫 How to reach me adamammar960@gmail.com
 - 😄 Pronouns: he/him
 
